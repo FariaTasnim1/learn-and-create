@@ -7,6 +7,9 @@
   font-size: 30px;
   margin-bottom: 0;
 }
+.secondfont{
+  font-family: 'Roboto', sans-serif;
+}
 #center{
   margin-top: 30%;
   padding-left: 2%;
@@ -34,7 +37,7 @@ section{
 }
 .link-button{
   text-decoration: none;
-  background-image: linear-gradient(rgb(61, 61, 187), rgb(47, 26, 141));
+  background-image: linear-gradient(rgb(185, 185, 241), rgb(47, 26, 141));
   padding: 10px 40px;
   color: antiquewhite;
   font-weight: 700;
@@ -60,11 +63,12 @@ section{
     margin-right: 10px;
     margin-bottom: 10px;
     padding-left: 2px;
-    border-radius: 10px;
+    border-radius: 20px;
     background-color: blanchedalmond;
 }
 #second-head{
   text-align: center;
+  color: rgb(13, 13, 88);
   font-size: 50px;
   margin-top: 50px;
   margin-bottom: 0;
@@ -119,4 +123,7 @@ section{
 }
 #box-3{
   background-color: rgb(131, 184, 185);
+}
+.padding{
+  padding-left: 20px;
 }
