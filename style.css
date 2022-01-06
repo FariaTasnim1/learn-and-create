@@ -52,11 +52,27 @@ section{
 }
 .box{
   margin-top: 60px;
-    width: 20%;
+    width: 30%;
     margin-left: 10px ;
     margin-right: 10px;
     margin-bottom: 10px;
     padding-left: 2px;
     border-radius: 10px;
     background-color: blanchedalmond;
+}
+#second-head{
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 0;
+}
+#connect{
+  margin-top: 100px;
+  margin-left: 0;
+  margin-right: 300px;
+}
+.backimg{
+  background-image: url(images/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 200px;
 }
