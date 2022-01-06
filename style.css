@@ -1,7 +1,5 @@
 .blue-color{
-  background: -webkit-linear-gradient(rgb(76, 55, 196), rgb(49, 160, 211));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+  color: blue;
 }
 
 h1{
